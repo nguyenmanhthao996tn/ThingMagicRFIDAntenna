@@ -1,0 +1,3 @@
+Software: 
+	http://www.dpie.com/rfid/thingmagic-mercury-api
+	https://www.jadaktech.com/documentation/rfid/universal-reader-assistant-utility/
